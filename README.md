@@ -5,10 +5,10 @@ This a starter to initiate a project using expressjs ,trpc, prisma, openapi, ste
 ## How to run the project
 
 - clone the project
-- type `yarn` to install all the dependencies
+- type `pnpm i` to install all the dependencies
 - fill the .env file and remove the `.example`
-- type `yarn dev` to start the development env
-- to build the project `yarn build`
+- type `pnpm dev` to start the development env
+- to build the project `pnpm build`
 - check `package.json` for more scripts
 - enjoy :)
 
