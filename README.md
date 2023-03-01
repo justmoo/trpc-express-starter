@@ -1,6 +1,6 @@
 # TRPC Starter
 
-This a starter i use to initiate a project using expressjs ,trpc, prisma, openapi, stepci and more
+This a starter to initiate a project using expressjs ,trpc, prisma, openapi, stepci and more
 
 ## How to run the project
 
